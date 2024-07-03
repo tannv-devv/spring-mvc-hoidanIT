@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### Docker Posgresql ###
-.postgres_data/
+postgres_data/
